@@ -1,0 +1,15 @@
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\bin\Debug\NgoQuyTruong.exe.config
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\bin\Debug\NgoQuyTruong.exe
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\bin\Debug\NgoQuyTruong.pdb
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\bin\Debug\EntityFramework.dll
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\bin\Debug\EntityFramework.SqlServer.dll
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\bin\Debug\EntityFramework.xml
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\bin\Debug\EntityFramework.SqlServer.xml
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\obj\Debug\NgoQuyTruong.csprojResolveAssemblyReference.cache
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\obj\Debug\NgoQuyTruong.Form1.resources
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\obj\Debug\NgoQuyTruong.GUI.ThemLienLac.resources
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\obj\Debug\NgoQuyTruong.GUI.ThemNhom.resources
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\obj\Debug\NgoQuyTruong.Properties.Resources.resources
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\obj\Debug\NgoQuyTruong.csproj.GenerateResource.Cache
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\obj\Debug\NgoQuyTruong.exe
+F:\Nam4_DHKH\Net_Framwork\BaiTap\NgoQuyTruong\NgoQuyTruong\obj\Debug\NgoQuyTruong.pdb
